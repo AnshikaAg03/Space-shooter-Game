@@ -48,7 +48,7 @@ pip install cffi  # Required for Raylib bindings
 
 ### Clone and Run
 bash
-git clone https://github.com/yourusername/space-shooter.git
+git clone https://github.com/AnshikaAg03/Space-shooter-Game.git
 cd space-shooter
 python main.py
 
@@ -80,10 +80,6 @@ code/
 | 1/2/3 | Switch weapons |
 | Enter | Restart (Game Over screen) |
 | F1 | Debug: Show enemy information |
-
-## 🎨 Screenshots
-
-[Add screenshots of gameplay, different enemy types, weapon effects, etc.]
 
 ## 🏗 Architecture Overview
 
